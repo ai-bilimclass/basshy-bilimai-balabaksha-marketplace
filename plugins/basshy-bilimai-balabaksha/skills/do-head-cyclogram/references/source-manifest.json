@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "original_name": "МС  к Плагину Циклограмма рук Word .docx",
+      "package_path": "assets/head-cyclogram-methodology.docx",
+      "bytes": 53448,
+      "sha256": "ccc8413367c10cc3fd69958f88e0426574229b2760616a9cb99d5f10e93de2c2"
+    },
+    {
+      "original_name": "Программа ДВиО.pdf",
+      "package_path": "assets/preschool-programme.pdf",
+      "bytes": 2135417,
+      "sha256": "cb6c65170ea6b89f889171de11f64f4203314b1c635335eb8de6c76b5ca7ce5c"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "basshy-bilimai-balabaksha",
+  "interface": {
+    "displayName": "Basshy BilimAI Balabaksha"
+  },
+  "plugins": [
+    {
+      "name": "basshy-bilimai-balabaksha",
+      "source": {
+        "source": "local",
+        "path": "./plugins/basshy-bilimai-balabaksha"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    }
+  ]
+}

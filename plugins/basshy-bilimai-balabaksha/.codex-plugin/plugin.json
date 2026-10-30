@@ -1,0 +1,29 @@
+{
+  "interface": {
+    "brandColor": "#754BFF",
+    "capabilities": [
+      "Write"
+    ],
+    "category": "Education",
+    "composerIcon": "./assets/bilim-ai-head-logo.png",
+    "defaultPrompt": [
+      "Сізге қандай оқу материалын дайындау қажет?\nДаму бағдарламасы / Программа развития",
+      "Жылдық жоспар / Годовой план",
+      "Іс әрекет циклограммасы / Циклограмма деятельности"
+    ],
+    "developerName": "Elmira Dabylova",
+    "displayName": "Basshy BilimAI Balabaksha",
+    "logo": "./assets/bilim-ai-head-logo.png",
+    "longDescription": "Мектепке дейінгі ұйым басшысының құжаттарын кірістірілген үлгілер негізінде дайындайды: үш жылдық даму бағдарламасы, жылдық жоспар және ай не апта циклограммасы. Нәтижелер өңделетін DOCX түрінде беріледі.",
+    "shortDescription": "МДҰ басшысының даму бағдарламасы, жылдық жоспары және циклограммасы"
+  },
+  "name": "basshy-bilimai-balabaksha",
+  "version": "1.0.11",
+  "description": "Три навыка для руководителя дошкольной организации Казахстана: трёхлетняя программа развития, годовой план и циклограмма деятельности руководителя.",
+  "author": {
+    "name": "Elmira Dabylova",
+    "email": "elmira.dabylova@bilimland.com"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}
